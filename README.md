@@ -1,6 +1,6 @@
 # Automation_Selenide_Patterns_TestModeSUT 
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/keil756h4y3nmvf7?svg=true)](https://ci.appveyor.com/project/TatyanaMilyutkina/automation-selenide-patterns-testmodesut-main)
 
 # Обучение в Нетологии.
 
